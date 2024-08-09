@@ -7,7 +7,7 @@ public class Person implements Information{
         System.out.println("Hello there.");
     }
     
-    @override
+    @Override
     public void showInfo(){
         System.out.println("Person name is: " +  name);
     }
